@@ -1,0 +1,11 @@
+16:08:31 - [HelperFunctions.py:21]-[configure_logging] Logging configured to write to file: C:\Users\smertensdewilmars\OneDrive - Deloitte (O365D)\Desktop\Code\Projects\rightmove_scraper\Outputs\Logs\logger_20230411160831.txt 
+16:08:31 - [Model.py:27]-[run] Starting program. 
+16:08:31 - [Sampling.py:54]-[filter_sample] Removed the following countries from the sample: ['Isle of Man', 'Guernsey', 'Jersey'] 
+16:08:31 - [Sampling.py:32]-[pc_sampler] Sampling 480 postcodes in total 
+16:08:31 - [HelperFunctions.py:36]-[timeit_wrapper] Function: pc_sampler took 0.0276 seconds 
+16:09:02 - [Caching.py:44]-[run] Encountered an error!: 
+16:09:02 - [Caching.py:46]-[run] Scraping failed (attempt 1/20)! Starting cache procedure... 
+16:09:02 - [Caching.py:73]-[make_cache] Data succesfuly cached in: C:\Users\smertensdewilmars\OneDrive - Deloitte (O365D)\Desktop\Code\Projects\rightmove_scraper\Outputs\Cache\Data\data_20230411160902.csv 
+16:09:02 - [Caching.py:74]-[make_cache] Current parameters successfully cached in: C:\Users\smertensdewilmars\OneDrive - Deloitte (O365D)\Desktop\Code\Projects\rightmove_scraper\Outputs\Cache\Params\params_20230411160902.json 
+16:09:02 - [Caching.py:56]-[run] Starting 2th attempt out of 20 
+16:09:05 - [Caching.py:84]-[take_cache] Cache with ID 20230411160902 succesfully retrieved and unpacked! 
